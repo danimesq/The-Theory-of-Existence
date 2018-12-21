@@ -1,6 +1,6 @@
 This file shows the Namecoin's transaction ID containing the hash of previous commit. It is for registering/copyright purposes.
 Namecoin transaction ID with previous commit(s) hash(es): 
-e5c24e11e5179ed5a239747f33cc4e57bb532fe84f26c5a95a777f34dc50d925
+57d951b2c1ddfa8599001a55667c8d58ba9a0a2b20bb1b67f8e02eb340b7933d
 Address/Name/Domain: thetheoryofexistence.bit
 Owner: Daniell Mesquita
 Namecoin transactions IDs with Ownership proof: 
